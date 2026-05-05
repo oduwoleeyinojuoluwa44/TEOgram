@@ -12,6 +12,8 @@
 
 # testing
 /coverage
+/test-results
+e2e/live-e2e-failure.png
 
 # next.js
 /.next/
@@ -39,3 +41,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
